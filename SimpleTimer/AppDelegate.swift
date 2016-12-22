@@ -8,8 +8,10 @@
 
 import UIKit
 
+
 public var isTimerFinish: Bool = false
 
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
                             
     var window: UIWindow?
